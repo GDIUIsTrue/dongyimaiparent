@@ -1,0 +1,25 @@
+# Project exclude paths
+/dongyimaicartinterface/target/
+/dongyimaicartservice/target/
+/dongyimaicartweb/target/
+/dongyimaicommon/target/
+/dongyimaicontentinterface/target/
+/dongyimaicontentservice/target/
+/dongyimaidao/target/
+/dongyimaimanagerweb/target/
+/dongyimaipageinterface/target/
+/dongyimaipageservice/target/
+/dongyimaipageweb/target/
+/dongyimaipojo/target/
+/dongyimaiportalweb/target/
+/dongyimaisearchinterface/target/
+/dongyimaisearchservice/target/
+/dongyimaisearchweb/target/
+/dongyimaisellergoodsinterface/target/
+/dongyimaisellergoodsservice/target/
+/dongyimaishopweb/target/
+/dongyimaismsservice/target/
+/dongyimaisolrutil/target/
+/dongyimaiuserinterface/target/
+/dongyimaiuserservice/target/
+/dongyimaiuserweb/target/
